@@ -33,7 +33,7 @@ const Header = () => {
       isScrolled ? 'bg-background/90 backdrop-blur-lg shadow-md py-2' : 'py-4'
     }`}>
       <div className="container flex items-center justify-between">
-        <a href="#home" className="text-2xl font-bold text-gradient">Portfolio.</a>
+        <a href="#home" className="text-2xl font-bold text-gradient">Majid Ali</a>
         
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center space-x-6">

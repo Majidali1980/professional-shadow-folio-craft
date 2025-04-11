@@ -1,4 +1,3 @@
-
 import React, { useEffect } from 'react';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
@@ -45,7 +44,7 @@ const Index = () => {
       <Header />
       <Hero />
       
-      {/* Add an "About" section placeholder */}
+      {/* About Section */}
       <section id="about" className="bg-secondary/20">
         <div className="container">
           <div className="text-center mb-12 reveal-animation">
@@ -59,9 +58,9 @@ const Index = () => {
             <div className="reveal-animation">
               <div className="glass-card overflow-hidden rounded-xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3"
-                  alt="Profile" 
-                  className="w-full h-80 object-cover object-top"
+                  src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3"
+                  alt="Majid Ali" 
+                  className="w-full h-80 object-cover object-center"
                 />
               </div>
             </div>

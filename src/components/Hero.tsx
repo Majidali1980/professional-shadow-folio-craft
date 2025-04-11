@@ -23,8 +23,8 @@ const Hero = () => {
           <div>
             <h2 className="text-xl md:text-2xl mb-2 text-muted-foreground">Hello, I'm</h2>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
-              <AnimatedText text="John" className="mr-3" delay={300} />
-              <AnimatedText text="Doe" className="text-gradient" delay={600} />
+              <AnimatedText text="Majid" className="mr-3" delay={300} />
+              <AnimatedText text="Ali" className="text-gradient" delay={600} />
             </h1>
             <div className="space-y-4 animate-fade-in" style={{ animationDelay: '0.8s' }}>
               <h3 className="text-2xl md:text-3xl font-medium">
@@ -66,8 +66,8 @@ const Hero = () => {
           <div className={`relative transition-all duration-1000 ${isLoaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-20'}`}>
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/20 shadow-lg shadow-primary/20">
               <img 
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3" 
-                alt="Professional portrait" 
+                src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3" 
+                alt="Majid Ali profile" 
                 className="w-full h-full object-cover object-center"
               />
             </div>

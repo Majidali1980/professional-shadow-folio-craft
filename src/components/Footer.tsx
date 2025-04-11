@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="container">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <div>
-            <h3 className="text-2xl font-bold text-gradient mb-4">Portfolio.</h3>
+            <h3 className="text-2xl font-bold text-gradient mb-4">Majid Ali</h3>
             <p className="text-foreground/70 max-w-sm">
               Transforming ideas into exceptional digital experiences through innovative web and mobile solutions.
             </p>
@@ -60,7 +60,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-border/50 pt-6 text-center text-sm text-foreground/60">
-          <p>© {currentYear} Portfolio. All rights reserved.</p>
+          <p>© {currentYear} Majid Ali. All rights reserved.</p>
         </div>
       </div>
     </footer>
