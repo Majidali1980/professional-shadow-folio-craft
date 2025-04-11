@@ -38,7 +38,7 @@ const projects: Project[] = [
     id: 4,
     title: 'Branding Project',
     category: 'branding',
-    image: 'https://images.unsplash.com/photo-1600775508114-5c3e3599359b?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3',
+    image: 'https://cdn.pixabay.com/photo/2016/06/25/12/52/laptop-1478822_640.jpg',
     link: '#'
   },
   {
@@ -52,7 +52,7 @@ const projects: Project[] = [
     id: 6,
     title: 'Corporate Website',
     category: 'web',
-    image: 'https://images.unsplash.com/photo-1600267204091-5c1e8e884093?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3',
+    image: 'https://cdn.pixabay.com/photo/2015/06/24/16/36/office-820390_640.jpg',
     link: '#'
   }
 ];
